@@ -24,8 +24,10 @@
 http://0.0.0.0:7474/browser/   or http://localhost:7474/browser/
 
 
-# Review complete schema - Neo4j Command: 
+# Review complete schema (it depends completely on the loaded file)- Neo4j Command: 
 call db.schema.visualization()  
 
-![schema visualization](schema_visualization.png)
+![schema visualization](image-1.png)
 
+
+![graph example](image.png)
